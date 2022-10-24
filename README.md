@@ -7,14 +7,9 @@ Hello World using C#.
 ## Used In This Repository
 
 - C# 10.0
-
-## Getting Started
-
-### Dependencies
-
 - .NET 6.0
 
-### Setup
+## Getting Started
 
 ## Version History
 
