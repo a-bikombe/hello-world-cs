@@ -7,7 +7,7 @@ Hello World using C#.
 ## Used In This Repository
 
 - C# 10.0
-- .NET 6.0
+- [.NET 6.0](https://dotnet.microsoft.com/en-us/download)
 
 ## Getting Started
 
